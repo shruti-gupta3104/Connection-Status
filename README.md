@@ -1,0 +1,1 @@
+A project where HTML, CSS, and JavaScript come together to create a seamless internet connection status detector. This project not only informs users about their online/offline status but does so with style and efficiency
